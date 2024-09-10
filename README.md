@@ -35,7 +35,7 @@ Make sure you have the following installed:
 
 1. Clone this repository:
 
-```git clone https://github.com/yourusername/cypress-amazon-demo.git```
+```git clone https://github.com/ivan75bgd/cypress-ui-demo.git```
 
 2. Navigate to the project directory:
 
